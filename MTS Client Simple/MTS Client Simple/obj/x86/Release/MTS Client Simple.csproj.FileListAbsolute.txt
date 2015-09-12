@@ -1,0 +1,7 @@
+C:\Users\Mecha\Documents\Computer Science\MTS Client\MTS Client Simple\MTS Client Simple\bin\Release\MTS Client Simple.exe
+C:\Users\Mecha\Documents\Computer Science\MTS Client\MTS Client Simple\MTS Client Simple\bin\Release\MTS Client Simple.pdb
+C:\Users\Mecha\Documents\Computer Science\MTS Client\MTS Client Simple\MTS Client Simple\obj\x86\Release\MTS_Client_Simple.MTSGUI.resources
+C:\Users\Mecha\Documents\Computer Science\MTS Client\MTS Client Simple\MTS Client Simple\obj\x86\Release\MTS_Client_Simple.Properties.Resources.resources
+C:\Users\Mecha\Documents\Computer Science\MTS Client\MTS Client Simple\MTS Client Simple\obj\x86\Release\MTS Client Simple.csproj.GenerateResource.Cache
+C:\Users\Mecha\Documents\Computer Science\MTS Client\MTS Client Simple\MTS Client Simple\obj\x86\Release\MTS Client Simple.exe
+C:\Users\Mecha\Documents\Computer Science\MTS Client\MTS Client Simple\MTS Client Simple\obj\x86\Release\MTS Client Simple.pdb
