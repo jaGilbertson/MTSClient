@@ -124,7 +124,7 @@ namespace MTS_Client_Simple
 
         private void aboutBtn_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Developed by Jamie Gilbertson\ndmechachomp@gmail.com\n");
+            MessageBox.Show("Developed by Jamie Gilbertson\ndmechachomp@gmail.com\ntwitter.com/mechachomp");
         }
 
         public string getP1Name()
